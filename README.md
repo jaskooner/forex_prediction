@@ -1,1 +1,1 @@
-# forex_preduction
+# forex_prediction
